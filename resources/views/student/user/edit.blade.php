@@ -3,7 +3,7 @@
 @section('title', 'đề tài')
 
 @section('content')
-<body>
+<div class="table-agile-info">
     <center><h1>Sửa thông tin tài khoản</h1></center>
     <br>
     <div style="font-size: 20px">
@@ -62,7 +62,6 @@
             </ul>
         </div>
     @endif
-</body>
-
+</div>
 @endsection
 
